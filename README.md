@@ -1,2 +1,2 @@
 # Chat_Application
-chat between two users
+Real-Time Chat Application Between Two Users
